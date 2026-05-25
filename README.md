@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Sujal+Kumar+%F0%9F%91%8B;Full+Stack+Engineer+%7C+AI+Builder;Student+%7C+Always+Learning" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Sujal+Kumar+%F0%9F%91%8B;Full+Stack+Engineer+%7C+AI+Builder;Student+%7C+Always+Learning" alt="Header" />
 
 <br/>
 
