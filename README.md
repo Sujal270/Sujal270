@@ -164,12 +164,6 @@ Currently building. Stay tuned.
 
 ## Problem Solving
 
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sujal270?theme=light&font=Fira+Code&ext=activity)](https://leetcode.com/Sujalk6207/)
-
-</div>
-
 | Platform | Handle | Focus |
 |----------|--------|-------|
 | 🟡 LeetCode | [sujal270](https://leetcode.com/u/Sujalk6207/) | DSA · Problem Solving |
