@@ -166,7 +166,7 @@ Currently building. Stay tuned.
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sujal270?theme=light&font=Fira+Code&ext=activity)](https://leetcode.com/Sujalk6207)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sujal270?theme=light&font=Fira+Code&ext=activity)](https://leetcode.com/Sujalk6207/)
 
 </div>
 
@@ -190,9 +190,6 @@ I'm open to **internships**, **collaborations**, and **ambitious side projects**
   <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/See_My_Work-000000?style=flat&logo=vercel&logoColor=white"/>
-</a>
 
 </div>
 
